@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=haixin-fang)
+![](https://github-readme-stats.vercel.app/api?username=haixin-fang&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haixin-fang&langs_count=3&hide_title=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haixin-fang&langs_count=3&hide_title=true&hide_border=true&show_icons=true&theme=radical" />
 <!--
 **haixin-fang/haixin-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
