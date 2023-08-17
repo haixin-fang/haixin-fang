@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff355e&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" />
 
 ![](https://github-readme-stats.vercel.app/api?username=haixin-fang&show_icons=true&theme=radical)
 
